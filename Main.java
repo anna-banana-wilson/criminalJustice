@@ -1,5 +1,3 @@
-/* YOU WILL NEED TO MODIFY THIS FILE (for tests) */
-// import org.junit.Assert;
 import java.io.*;
 import java.util.Scanner;
 import java.util.ArrayList;
