@@ -1,0 +1,4 @@
+Labelled as Low-Risk but Reoffended, White:       38.099174%
+Labelled as Low-Risk but Reoffended, Black:       43.55372%
+Labelled as High-Risk but Didn't Reoffend, White: 20.151134%
+Labelled as High-Risk but Didn't Reoffend, Black: 70.78085%
