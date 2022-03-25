@@ -1,5 +1,7 @@
 # Criminal Justice
 
+Created by Anna Wilson in September 2021
+
 This repository comes from an assignment I did in my Data Structures class. To start of, we read this article from Pro Publica:
 https://www.propublica.org/article/machine-bias-risk-assessments-in-criminal-sentencing
 
